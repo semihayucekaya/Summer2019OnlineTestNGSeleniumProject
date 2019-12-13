@@ -1,15 +1,8 @@
-package vyTrack;
+package tests.homework;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
-import org.apache.commons.lang3.SystemUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.opera.OperaDriver;
-import org.openqa.selenium.safari.SafariDriver;
 import utils.BrowserFactory;
 import utils.BrowserUtils;
 

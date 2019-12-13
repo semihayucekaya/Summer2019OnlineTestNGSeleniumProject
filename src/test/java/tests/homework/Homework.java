@@ -1,4 +1,4 @@
-package vyTrack;
+package tests.homework;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

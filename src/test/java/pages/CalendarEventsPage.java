@@ -12,4 +12,7 @@ public class CalendarEventsPage extends BasePage {
         BrowserUtils.waitForClickablility(createCalendarEvent,5);
         createCalendarEvent.click();
     }
+
+    public void clickToCreateCalendarEvent() {
+    }
 }
